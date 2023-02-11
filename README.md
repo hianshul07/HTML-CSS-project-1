@@ -1,4 +1,4 @@
-# HTML & CSS Project - CALM
+# HTML & CSS Project - Calm
 
 ## ScreenShot
 
